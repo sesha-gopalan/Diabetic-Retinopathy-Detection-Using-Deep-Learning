@@ -32,8 +32,9 @@ Epochs: 5
 
 <li>No_DR – 45%</li>
 <li>Mild – 32%</li>
-<li><Severe – 6%</li>
-<li></li>Proliferative – 5%</li>
+<li>Moderate – 12%</li>
+<li>Severe – 6%</li>
+<li>Proliferative – 5%</li>
 
 **Key Features**
 
@@ -52,5 +53,5 @@ Epochs: 5
 
  **Author**
 
-Sesha Gopalan R S
+Sesha Gopalan R S<br>
 B.Tech CSE (AI & DS)
